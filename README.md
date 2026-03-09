@@ -31,4 +31,5 @@ This repository contains a forensic analysis of a real-world phishing email as p
 🚨 Key Findings
 The analyzed lure was identified as a Critical Risk credential harvesting attempt. Despite professional branding, the email failed all primary authentication protocols and contained a malicious mailto: link hidden behind a "Report The User" button.
 
-📂 Direct Link to Project: Phishing Detection & Awareness System (FUTURE_CS_02.pdf)
+📂 [View Full phising Detection & 
+Awareness System report](./FUTURE_CS_02.pdf)
