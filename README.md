@@ -19,7 +19,7 @@ This repository contains a forensic analysis of a real-world phishing email as p
 🛠️ Tools Used
  Google Admin Toolbox: For message header analysis.
  MXToolbox: For SPF, DKIM, and DMARC authentication checks.
- Canva: For designing the final forensic report and awareness guidelines.
+ Ms word: For designing the final forensic report and awareness guidelines.
 
 📂 Repository Structure
  /Report: Contains the full PDF forensic analysis of the Microsoft "Unusual Sign-in" lure.
